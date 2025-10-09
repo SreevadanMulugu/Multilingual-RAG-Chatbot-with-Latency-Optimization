@@ -2,7 +2,10 @@
 
 <br>
 
-🤖 AI Chatbot for Generic Money FAQs
+🤖 AI Chatbot for Generic Money Website FAQs
+
+Flowdiagram
+<img width="2257" height="2068" alt="Untitled diagram-2025-10-08-135448" src="https://github.com/user-attachments/assets/8dbf77a4-828a-41d7-85d4-e3bca9767a3e" />
 
 <br>
 <br>
@@ -108,4 +111,4 @@ You can run this entire project in Google Colab, which gives you a powerful comp
 
 That's it\! You've built and are now running a powerful, multilingual AI chatbot.
 
-<img width="2257" height="2068" alt="Untitled diagram-2025-10-08-135448" src="https://github.com/user-attachments/assets/8dbf77a4-828a-41d7-85d4-e3bca9767a3e" />
+
